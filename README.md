@@ -8,4 +8,3 @@ the file at `content/posts/hello_world.json` could be loaded at `https://<websit
 
 When editing in CloudCannon, these posts will open in the Visual Editor, using the preview page found at `content/previewer/index.html`. This file uses CloudCannon's live editing APIs to fetch the relevant data on load, and previews the content of the JSON file with some hypothetical styling to match the end consumer application.
 
-
