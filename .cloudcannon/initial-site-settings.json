@@ -1,6 +1,7 @@
 {
     "ssg": "other",
-    "build_configuration": {
+    "mode": "hosted"
+    "build": {
         "preserved_paths": "",
         "environment_variables": [],
         "install_command": "",
