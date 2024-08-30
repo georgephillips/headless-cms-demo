@@ -1,6 +1,6 @@
 {
     "ssg": "other",
-    "mode": "hosted"
+    "mode": "hosted",
     "build": {
         "preserved_paths": "",
         "environment_variables": [],
