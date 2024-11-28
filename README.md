@@ -1,4 +1,4 @@
-# CloudCannon Headless CMS Demo
+# CloudCannon Headless CMS Demo Decoupled
 
 This repo illustrates one approach to building a git-based headless CMS using CloudCannon.
 
